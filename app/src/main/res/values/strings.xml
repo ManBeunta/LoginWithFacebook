@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login With Facebook</string>
+    <string name="facebook_app_id">194171754477723</string>
+    <string name="title_activity_main2">UserProfile</string>
+</resources>
